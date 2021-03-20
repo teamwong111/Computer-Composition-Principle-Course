@@ -1,4 +1,4 @@
-# Cpp-Programming-Course
+# Computer-Composition-Principle-Course
 这是我在同济大学计算机组成原理课程（2020）的大作业
 
 ---
